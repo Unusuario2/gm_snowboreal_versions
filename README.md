@@ -1,7 +1,7 @@
 # gm_snowboreal_versions
  Here are all the developer versions of gm_snowboreal (https://steamcommunity.com/sharedfiles/filedetails/?id=3171719212) from 2022 to 2024 (release).  
  My steam profile: https://steamcommunity.com/profiles/76561199073832016/  
- This repo is not meant to be optimize or whatsoever, there are a lot of duplicate files and other weird things.
+ This repo is not meant to be optimize or whatsoever, there are a lot of duplicate files and other weird things.  
 
  ![image](https://github.com/Unusuario2/gm_snowboreal_versions/assets/110506367/b772f729-ff2c-4971-b37b-547d0c5df62d)  
 
