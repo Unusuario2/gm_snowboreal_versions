@@ -1,0 +1,341 @@
+detail
+{
+	//this is basicly a port of the csgo detail.vbsp
+	survival_grass_2
+	{
+		"associated_material" "detail\detailsprites_survival"
+	
+		"density" "150"
+
+
+		Group1
+		{
+			"alpha" "1.0"
+		}
+
+		Group2
+		{
+			"alpha" ".65"
+		}
+
+		Group3
+		{
+			"alpha" ".55"
+			A
+			{
+				"sprite"		"0 0 320 448 1024" 	
+				"spritesize"		"0.5 0 20 30" 		
+				"spriterandomscale"	"0.05"			
+				"amount"		"0.01"		
+				"detailOrientation"	"2"	
+				maxangle "20"		
+			}
+			B
+			{
+				"sprite"		"320 0 256 448 1024"
+				"spritesize"		"0.5 0 19 34"
+				"spriterandomscale"	"0.05"
+				"amount"		"0.02"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			E
+			{
+				"sprite"		"320 448 256 576 1024"
+				"spritesize"		"0.5 0 17 38"
+				"spriterandomscale"	"0.05"
+				"amount"		"0.02"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			D
+			{
+				"sprite"		"0 448 320 576 1024"
+				"spritesize"		"0.5 0 18 36"
+				"spriterandomscale"	"0.05"
+				"amount"		"0.03"
+				"detailOrientation"	"2"
+			}
+			F
+			{
+				"sprite"		"576 512 448 512 1024"
+				"spritesize"		"0.5 0 34 36"
+				"spriterandomscale"	"0.05"
+				"amount"		"0.15"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			I
+			{
+				"sprite"		"576 0 256 256 1024"
+				"spritesize"		"0.5 0 18 18"
+				"spriterandomscale"	"0.05"
+				"amount"		"0.07"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			J
+			{
+				"sprite"		"832 0 192 256 1024"
+				"spritesize"		"0.5 0 12 16"
+				"spriterandomscale"	"0.05"
+				"amount"		"0.07"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+		}
+
+		Group4
+		{
+			"alpha" ".4"
+			
+			A
+			{
+				"sprite"		"0 0 320 448 1024" 	//(X, Y) coord. of upper left corner, w & h of sprite, size of the detailsprite.vtf texture in pixels.
+				"spritesize"		"0.5 0 20 30" 		//x & y of rotational center of sprite (approx .5 0), x y world size of sprite
+				"spriterandomscale"	"0.1"			//randomness of sprite sizes
+				"amount"		"0.01"		//relative amount of sprite...keep in thirds for three. if four sprites, would be .25
+				"detailOrientation"	"2"
+				maxangle "20"			//1 faces player. 0 would not rotate. 2 faces camera.
+			}
+			B
+			{
+				"sprite"		"320 0 256 448 1024"
+				"spritesize"		"0.5 0 18 35"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.02"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			D
+			{
+				"sprite"		"0 448 320 576 1024"
+				"spritesize"		"0.5 0 18 36"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.03"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+
+			E
+			{
+				"sprite"		"320 448 256 576 1024"
+				"spritesize"		"0.5 0 16 34"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.02"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			F
+			{
+				"sprite"		"576 512 448 512 1024"
+				"spritesize"		"0.5 0 34 36"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.15"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			G
+			{
+				"sprite"		"576 256 448 256 1024"
+				"spritesize"		"0.5 0 13 13"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.3"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+
+			I
+			{
+				"sprite"		"576 0 256 256 1024"
+				"spritesize"		"0.5 0 18 18"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.2"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			J
+			{
+				"sprite"		"832 0 192 256 1024"
+				"spritesize"		"0.5 0 12 16"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.2"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+		}
+
+		Group5
+		{
+			"alpha" ".25"
+			
+			A
+			{
+				"sprite"		"0 0 320 448 1024" 	//(X, Y) coord. of upper left corner, w & h of sprite, size of the detailsprite.vtf texture in pixels.
+				"spritesize"		"0.5 0 20 30" 		//x & y of rotational center of sprite (approx .5 0), x y world size of sprite
+				"spriterandomscale"	"0.1"			//randomness of sprite sizes
+				"amount"		"0.02"		//relative amount of sprite...keep in thirds for three. if four sprites, would be .25
+				"detailOrientation"	"2"	
+				maxangle "20"		//1 faces player. 0 would not rotate. 2 faces camera.
+			}
+			B
+			{
+				"sprite"		"320 0 256 448 1024"
+				"spritesize"		"0.5 0 20 38"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.04"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			D
+			{
+				"sprite"		"0 448 320 576 1024"
+				"spritesize"		"0.5 0 22 36"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.03"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			E
+			{
+				"sprite"		"320 448 256 576 1024"
+				"spritesize"		"0.5 0 20 38"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.02"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			F
+			{
+				"sprite"		"576 512 448 512 1024"
+				"spritesize"		"0.5 0 32 38"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.2"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			G
+			{
+				"sprite"		"576 256 448 256 1024"
+				"spritesize"		"0.5 0 13 13"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.22"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+
+			I
+			{
+				"sprite"		"576 0 256 256 1024"
+				"spritesize"		"0.5 0 18 18"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.2"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			J
+			{
+				"sprite"		"832 0 192 256 1024"
+				"spritesize"		"0.5 0 12 16"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.2"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+		}
+
+		Group6
+		{
+			"alpha" ".15"
+			
+			A
+			{
+				"sprite"		"0 0 320 448 1024" 	//(X, Y) coord. of upper left corner, w & h of sprite, size of the detailsprite.vtf texture in pixels.
+				"spritesize"		"0.5 0 20 30" 		//x & y of rotational center of sprite (approx .5 0), x y world size of sprite
+				"spriterandomscale"	"0.1"			//randomness of sprite sizes
+				"amount"		"0.02"		//relative amount of sprite...keep in thirds for three. if four sprites, would be .25
+				"detailOrientation"	"2"	
+				maxangle "20"		//1 faces player. 0 would not rotate. 2 faces camera.
+			}
+			B
+			{
+				"sprite"		"320 0 256 448 1024"
+				"spritesize"		"0.5 0 20 38"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.05"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			D
+			{
+				"sprite"		"0 448 320 576 1024"
+				"spritesize"		"0.5 0 22 40"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.06"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			E
+			{
+				"sprite"		"320 448 256 576 1024"
+				"spritesize"		"0.5 0 20 38"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.04"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			F
+			{
+				"sprite"		"576 512 448 512 1024"
+				"spritesize"		"0.5 0 32 38"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.3"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			G
+			{
+				"sprite"		"576 256 448 256 1024"
+				"spritesize"		"0.5 0 13 13"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.2"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+
+			I
+			{
+				"sprite"		"576 0 256 256 1024"
+				"spritesize"		"0.5 0 18 18"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.2"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+			J
+			{
+				"sprite"		"832 0 192 256 1024"
+				"spritesize"		"0.5 0 12 16"
+				"spriterandomscale"	"0.1"
+				"amount"		"0.2"
+				"detailOrientation"	"2"
+				maxangle "20"
+			}
+		}
+	}
+	//custom .vbsp -- it is here becouse vbsp can process prop_detail (model) if there arent here, what the hell!!
+	tree
+	{
+		density 0
+
+		tree_sz
+		{
+			tree_sz_skybox
+			{
+				model "models/de_subzero/sz_skybox/sz_skytree.mdl"
+				amount "0.25"
+				maxangle "20"
+			}
+		}
+	}
+}

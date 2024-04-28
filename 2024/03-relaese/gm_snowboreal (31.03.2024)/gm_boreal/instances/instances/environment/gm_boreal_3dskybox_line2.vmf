@@ -1,0 +1,4226 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "8864"
+	"mapversion" "15"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+	visgroup
+	{
+		"name" "electric_line "
+		"visgroupid" "9"
+		"color" "206 183 196"
+	}
+	visgroup
+	{
+		"name" "save"
+		"visgroupid" "10"
+		"color" "91 248 185"
+	}
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "1"
+}
+palette_plus
+{
+	"color0" "255 255 255"
+	"color1" "255 255 255"
+	"color2" "255 255 255"
+	"color3" "255 255 255"
+	"color4" "255 255 255"
+	"color5" "255 255 255"
+	"color6" "255 255 255"
+	"color7" "255 255 255"
+	"color8" "255 255 255"
+	"color9" "255 255 255"
+	"color10" "255 255 255"
+	"color11" "255 255 255"
+	"color12" "255 255 255"
+	"color13" "255 255 255"
+	"color14" "255 255 255"
+	"color15" "255 255 255"
+}
+colorcorrection_plus
+{
+	"name0" ""
+	"weight0" "1"
+	"name1" ""
+	"weight1" "1"
+	"name2" ""
+	"weight2" "1"
+	"name3" ""
+	"weight3" "1"
+}
+light_plus
+{
+	"samples_sun" "6"
+	"samples_ambient" "40"
+	"samples_vis" "256"
+	"texlight" ""
+	"incremental_delay" "0"
+	"bake_dist" "1024"
+	"radius_scale" "1"
+	"brightness_scale" "1"
+	"ao_scale" "0"
+	"bounced" "1"
+	"incremental" "1"
+	"supersample" "0"
+	"bleed_hack" "1"
+	"soften_cosine" "0"
+	"debug" "0"
+	"cubemap" "1"
+	"hdr" "0"
+}
+bgimages_plus
+{
+}
+world
+{
+	"id" "1"
+	"mapversion" "15"
+	"classname" "worldspawn"
+	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_day01_01"
+	group
+	{
+		"id" "766"
+		editor
+		{
+			"color" "173 214 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "789"
+		editor
+		{
+			"color" "173 214 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "812"
+		editor
+		{
+			"color" "173 214 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "835"
+		editor
+		{
+			"color" "173 214 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "858"
+		editor
+		{
+			"color" "173 214 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "881"
+		editor
+		{
+			"color" "173 214 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "904"
+		editor
+		{
+			"color" "173 214 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1656"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe33"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe27"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "1792.12 66.875 -82.1397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1659"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe34"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe28"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "1792.12 60.625 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1662"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe35"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe29"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "1792.12 13.375 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+entity
+{
+	"id" "767"
+	"classname" "keyframe_rope"
+	"angles" "0 255 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe48"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe42"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-98.1505 -2118.25 -792.639"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "766"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "770"
+	"classname" "keyframe_rope"
+	"angles" "0 255 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe49"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe43"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-143.791 -2106.02 -792.639"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "766"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "773"
+	"classname" "keyframe_rope"
+	"angles" "0 255 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe50"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe44"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-149.949 -2104.37 -815.014"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "766"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "776"
+	"classname" "keyframe_rope"
+	"angles" "0 255 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe51"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe45"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-92.1135 -2119.86 -815.139"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "766"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "779"
+	"classname" "keyframe_rope"
+	"angles" "0 255 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe52"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe46"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-98.1505 -2118.25 -828.639"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "766"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "782"
+	"classname" "keyframe_rope"
+	"angles" "0 255 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe53"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe47"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-143.791 -2106.02 -828.639"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "766"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "785"
+	"classname" "prop_static"
+	"angles" "0 255 0"
+	"disableflashlight" "0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-120.939 -2112.02 -880.86"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "766"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "790"
+	"classname" "keyframe_rope"
+	"angles" "0 300 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe54"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe48"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-235.426 -1458.29 -542.639"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "789"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "793"
+	"classname" "keyframe_rope"
+	"angles" "0 300 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe55"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe49"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-276.346 -1481.92 -542.639"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "789"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "796"
+	"classname" "keyframe_rope"
+	"angles" "0 300 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe56"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe50"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-281.867 -1485.1 -565.014"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "789"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "799"
+	"classname" "keyframe_rope"
+	"angles" "0 300 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe57"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe51"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-230.013 -1455.17 -565.139"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "789"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "802"
+	"classname" "keyframe_rope"
+	"angles" "0 300 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe58"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe52"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-235.426 -1458.29 -578.639"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "789"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "805"
+	"classname" "keyframe_rope"
+	"angles" "0 300 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe59"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe53"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-276.346 -1481.92 -578.639"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "789"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "808"
+	"classname" "prop_static"
+	"angles" "0 300 0"
+	"disableflashlight" "0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-255.945 -1470 -630.86"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "789"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "813"
+	"classname" "keyframe_rope"
+	"angles" "0 330 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe60"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe54"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-575.084 -744.601 -706.639"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "812"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "816"
+	"classname" "keyframe_rope"
+	"angles" "0 330 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe61"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe55"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-598.709 -785.521 -706.639"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "812"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "819"
+	"classname" "keyframe_rope"
+	"angles" "0 330 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe62"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe56"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-601.897 -791.042 -729.014"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "812"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "822"
+	"classname" "keyframe_rope"
+	"angles" "0 330 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe63"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe57"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-571.959 -739.188 -729.139"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "812"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "825"
+	"classname" "keyframe_rope"
+	"angles" "0 330 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe64"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe58"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-575.084 -744.601 -742.639"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "812"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "828"
+	"classname" "keyframe_rope"
+	"angles" "0 330 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe65"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe59"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-598.709 -785.521 -742.639"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "812"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "831"
+	"classname" "prop_static"
+	"angles" "0 330 0"
+	"disableflashlight" "0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-587 -765 -794.86"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "812"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "836"
+	"classname" "keyframe_rope"
+	"angles" "0 0 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe66"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe60"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-1133.88 -148.312 -970.639"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "835"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "839"
+	"classname" "keyframe_rope"
+	"angles" "0 0 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe67"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe61"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-1133.88 -195.562 -970.639"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "835"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "842"
+	"classname" "keyframe_rope"
+	"angles" "0 0 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe68"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe62"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-1133.88 -201.938 -993.014"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "835"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "845"
+	"classname" "keyframe_rope"
+	"angles" "0 0 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe69"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe63"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-1133.88 -142.062 -993.139"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "835"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "848"
+	"classname" "keyframe_rope"
+	"angles" "0 0 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe70"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe64"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-1133.88 -148.312 -1006.64"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "835"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "851"
+	"classname" "keyframe_rope"
+	"angles" "0 0 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe71"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe65"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-1133.88 -195.562 -1006.64"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "835"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "854"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"disableflashlight" "0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-1134 -171.936 -1058.86"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "835"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "859"
+	"classname" "keyframe_rope"
+	"angles" "0 345 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe72"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe66"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-1627.75 157.881 -1075.64"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "858"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "862"
+	"classname" "keyframe_rope"
+	"angles" "0 345 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe73"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe67"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-1639.98 112.241 -1075.64"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "858"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "865"
+	"classname" "keyframe_rope"
+	"angles" "0 345 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe74"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe68"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-1641.63 106.082 -1098.01"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "858"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "868"
+	"classname" "keyframe_rope"
+	"angles" "0 345 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe75"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe69"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-1626.14 163.918 -1098.14"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "858"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "871"
+	"classname" "keyframe_rope"
+	"angles" "0 345 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe76"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe70"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-1627.75 157.881 -1111.64"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "858"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "874"
+	"classname" "keyframe_rope"
+	"angles" "0 345 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe77"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe71"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-1639.98 112.241 -1111.64"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "858"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "877"
+	"classname" "prop_static"
+	"angles" "0 345 0"
+	"disableflashlight" "0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-1633.98 135.093 -1163.86"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "858"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "882"
+	"classname" "keyframe_rope"
+	"angles" "0 300 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe78"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe72"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-2211.45 439.716 -1140.64"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "881"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "885"
+	"classname" "keyframe_rope"
+	"angles" "0 300 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe79"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe73"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-2252.37 416.091 -1140.64"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "881"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "888"
+	"classname" "keyframe_rope"
+	"angles" "0 300 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe80"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe74"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-2257.89 412.903 -1163.01"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "881"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "891"
+	"classname" "keyframe_rope"
+	"angles" "0 300 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe81"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe75"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-2206.04 442.841 -1163.14"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "881"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "894"
+	"classname" "keyframe_rope"
+	"angles" "0 300 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe82"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe76"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-2211.45 439.716 -1176.64"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "881"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "897"
+	"classname" "keyframe_rope"
+	"angles" "0 300 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "keyframe83"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe77"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-2252.37 416.091 -1176.64"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "881"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "900"
+	"classname" "prop_static"
+	"angles" "0 300 0"
+	"disableflashlight" "0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-2231.97 428.008 -1228.86"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "881"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "905"
+	"classname" "keyframe_rope"
+	"angles" "0 270 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe78"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-2582.31 1219.88 -1108.64"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "904"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "908"
+	"classname" "keyframe_rope"
+	"angles" "0 270 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe79"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-2629.56 1219.88 -1108.64"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "904"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "911"
+	"classname" "keyframe_rope"
+	"angles" "0 270 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe80"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-2635.94 1219.88 -1131.01"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "904"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "914"
+	"classname" "keyframe_rope"
+	"angles" "0 270 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe81"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-2576.06 1219.88 -1131.14"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "904"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "917"
+	"classname" "keyframe_rope"
+	"angles" "0 270 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe82"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-2582.31 1219.88 -1144.64"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "904"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "920"
+	"classname" "keyframe_rope"
+	"angles" "0 270 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "50"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "keyframe83"
+	"TextureScale" "0.25"
+	"Type" "0"
+	"Width" "1"
+	"origin" "-2629.56 1219.88 -1144.64"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "904"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "923"
+	"classname" "prop_static"
+	"angles" "0 270 0"
+	"disableflashlight" "0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"generatelightmaps" "0"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-2605.94 1220 -1196.86"
+	editor
+	{
+		"color" "173 214 0"
+		"groupid" "904"
+		"visgroupid" "9"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1672"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe37"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe31"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "1280.12 13.375 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1653"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe32"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe26"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "1792.12 7 -82.0147"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1650"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe31"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe25"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "1792.12 13.375 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1665"
+		"classname" "prop_static"
+		"angles" "0 0 0"
+		"disableflashlight" "0"
+		"disableselfshadowing" "0"
+		"disableshadows" "0"
+		"disablevertexlighting" "0"
+		"fademaxdist" "0"
+		"fademindist" "-1"
+		"fadescale" "1"
+		"generatelightmaps" "0"
+		"ignorenormals" "0"
+		"lightmapresolutionx" "32"
+		"lightmapresolutiony" "32"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+		"screenspacefade" "0"
+		"skin" "0"
+		"solid" "6"
+		"origin" "1792 37.001 -147.86"
+		editor
+		{
+			"color" "255 255 0"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1669"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe36"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe30"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "1280.12 60.625 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1647"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe30"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe24"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "1792.12 60.625 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1863"
+		"classname" "prop_static"
+		"angles" "0 0 0"
+		"disableflashlight" "0"
+		"disableselfshadowing" "0"
+		"disableshadows" "0"
+		"disablevertexlighting" "0"
+		"fademaxdist" "0"
+		"fademindist" "-1"
+		"fadescale" "1"
+		"generatelightmaps" "0"
+		"ignorenormals" "0"
+		"lightmapresolutionx" "32"
+		"lightmapresolutiony" "32"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+		"screenspacefade" "0"
+		"skin" "0"
+		"solid" "6"
+		"origin" "-2816 37.001 -147.86"
+		editor
+		{
+			"color" "255 255 0"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1860"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe83"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-2815.88 13.375 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1857"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe82"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-2815.88 60.625 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1854"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe81"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-2815.88 66.875 -82.1397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1851"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe80"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-2815.88 7 -82.0147"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1848"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe79"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-2815.88 13.375 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1845"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe78"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-2815.88 60.625 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1841"
+		"classname" "prop_static"
+		"angles" "0 0 0"
+		"disableflashlight" "0"
+		"disableselfshadowing" "0"
+		"disableshadows" "0"
+		"disablevertexlighting" "0"
+		"fademaxdist" "0"
+		"fademindist" "-1"
+		"fadescale" "1"
+		"generatelightmaps" "0"
+		"ignorenormals" "0"
+		"lightmapresolutionx" "32"
+		"lightmapresolutiony" "32"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+		"screenspacefade" "0"
+		"skin" "0"
+		"solid" "6"
+		"origin" "-2304 37.001 -147.86"
+		editor
+		{
+			"color" "255 255 0"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1838"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe83"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe77"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-2303.88 13.375 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1835"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe82"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe76"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-2303.88 60.625 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1832"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe81"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe75"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-2303.88 66.875 -82.1397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1829"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe80"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe74"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-2303.88 7 -82.0147"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1826"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe79"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe73"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-2303.88 13.375 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1823"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe78"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe72"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-2303.88 60.625 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1819"
+		"classname" "prop_static"
+		"angles" "0 0 0"
+		"disableflashlight" "0"
+		"disableselfshadowing" "0"
+		"disableshadows" "0"
+		"disablevertexlighting" "0"
+		"fademaxdist" "0"
+		"fademindist" "-1"
+		"fadescale" "1"
+		"generatelightmaps" "0"
+		"ignorenormals" "0"
+		"lightmapresolutionx" "32"
+		"lightmapresolutiony" "32"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+		"screenspacefade" "0"
+		"skin" "0"
+		"solid" "6"
+		"origin" "-1792 37.001 -147.86"
+		editor
+		{
+			"color" "255 255 0"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1816"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe77"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe71"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-1791.88 13.375 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1813"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe76"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe70"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-1791.88 60.625 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1810"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe75"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe69"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-1791.88 66.875 -82.1397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1807"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe74"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe68"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-1791.88 7 -82.0147"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1804"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe73"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe67"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-1791.88 13.375 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1801"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe72"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe66"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-1791.88 60.625 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1797"
+		"classname" "prop_static"
+		"angles" "0 0 0"
+		"disableflashlight" "0"
+		"disableselfshadowing" "0"
+		"disableshadows" "0"
+		"disablevertexlighting" "0"
+		"fademaxdist" "0"
+		"fademindist" "-1"
+		"fadescale" "1"
+		"generatelightmaps" "0"
+		"ignorenormals" "0"
+		"lightmapresolutionx" "32"
+		"lightmapresolutiony" "32"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+		"screenspacefade" "0"
+		"skin" "0"
+		"solid" "6"
+		"origin" "-1280 37.001 -147.86"
+		editor
+		{
+			"color" "255 255 0"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1794"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe71"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe65"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-1279.88 13.375 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1791"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe70"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe64"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-1279.88 60.625 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1788"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe69"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe63"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-1279.88 66.875 -82.1397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1785"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe68"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe62"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-1279.88 7 -82.0147"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1782"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe67"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe61"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-1279.88 13.375 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1779"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe66"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe60"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-1279.88 60.625 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1775"
+		"classname" "prop_static"
+		"angles" "0 0 0"
+		"disableflashlight" "0"
+		"disableselfshadowing" "0"
+		"disableshadows" "0"
+		"disablevertexlighting" "0"
+		"fademaxdist" "0"
+		"fademindist" "-1"
+		"fadescale" "1"
+		"generatelightmaps" "0"
+		"ignorenormals" "0"
+		"lightmapresolutionx" "32"
+		"lightmapresolutiony" "32"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+		"screenspacefade" "0"
+		"skin" "0"
+		"solid" "6"
+		"origin" "-768 37.001 -147.86"
+		editor
+		{
+			"color" "255 255 0"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1772"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe65"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe59"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-767.88 13.375 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1769"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe64"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe58"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-767.88 60.625 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1766"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe63"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe57"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-767.88 66.875 -82.1397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1763"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe62"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe56"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-767.88 7 -82.0147"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1760"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe61"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe55"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-767.88 13.375 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1757"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe60"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe54"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-767.88 60.625 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1753"
+		"classname" "prop_static"
+		"angles" "0 0 0"
+		"disableflashlight" "0"
+		"disableselfshadowing" "0"
+		"disableshadows" "0"
+		"disablevertexlighting" "0"
+		"fademaxdist" "0"
+		"fademindist" "-1"
+		"fadescale" "1"
+		"generatelightmaps" "0"
+		"ignorenormals" "0"
+		"lightmapresolutionx" "32"
+		"lightmapresolutiony" "32"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+		"screenspacefade" "0"
+		"skin" "0"
+		"solid" "6"
+		"origin" "-256 37.001 -147.86"
+		editor
+		{
+			"color" "255 255 0"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1750"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe59"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe53"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-255.88 13.375 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1747"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe58"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe52"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-255.88 60.625 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1744"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe57"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe51"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-255.88 66.875 -82.1397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1741"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe56"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe50"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-255.88 7 -82.0147"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1738"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe55"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe49"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-255.88 13.375 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1735"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe54"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe48"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "-255.88 60.625 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1731"
+		"classname" "prop_static"
+		"angles" "0 0 0"
+		"disableflashlight" "0"
+		"disableselfshadowing" "0"
+		"disableshadows" "0"
+		"disablevertexlighting" "0"
+		"fademaxdist" "0"
+		"fademindist" "-1"
+		"fadescale" "1"
+		"generatelightmaps" "0"
+		"ignorenormals" "0"
+		"lightmapresolutionx" "32"
+		"lightmapresolutiony" "32"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+		"screenspacefade" "0"
+		"skin" "0"
+		"solid" "6"
+		"origin" "256 37.001 -147.86"
+		editor
+		{
+			"color" "255 255 0"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1728"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe53"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe47"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "256.12 13.375 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1725"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe52"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe46"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "256.12 60.625 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1722"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe51"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe45"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "256.12 66.875 -82.1397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1719"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe50"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe44"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "256.12 7 -82.0147"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1716"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe49"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe43"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "256.12 13.375 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1713"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe48"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe42"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "256.12 60.625 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1709"
+		"classname" "prop_static"
+		"angles" "0 0 0"
+		"disableflashlight" "0"
+		"disableselfshadowing" "0"
+		"disableshadows" "0"
+		"disablevertexlighting" "0"
+		"fademaxdist" "0"
+		"fademindist" "-1"
+		"fadescale" "1"
+		"generatelightmaps" "0"
+		"ignorenormals" "0"
+		"lightmapresolutionx" "32"
+		"lightmapresolutiony" "32"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+		"screenspacefade" "0"
+		"skin" "0"
+		"solid" "6"
+		"origin" "768 37.001 -147.86"
+		editor
+		{
+			"color" "255 255 0"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1706"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe47"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe41"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "768.12 13.375 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1703"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe46"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe40"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "768.12 60.625 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1700"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe45"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe39"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "768.12 66.875 -82.1397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1697"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe44"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe38"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "768.12 7 -82.0147"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1694"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe43"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe37"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "768.12 13.375 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1691"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe42"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe36"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "768.12 60.625 -59.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1687"
+		"classname" "prop_static"
+		"angles" "0 0 0"
+		"disableflashlight" "0"
+		"disableselfshadowing" "0"
+		"disableshadows" "0"
+		"disablevertexlighting" "0"
+		"fademaxdist" "0"
+		"fademindist" "-1"
+		"fadescale" "1"
+		"generatelightmaps" "0"
+		"ignorenormals" "0"
+		"lightmapresolutionx" "32"
+		"lightmapresolutiony" "32"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"model" "models/props/de_nuke/hr_nuke/nuke_skybox_buildings/nuke_skybox_powerline.mdl"
+		"screenspacefade" "0"
+		"skin" "0"
+		"solid" "6"
+		"origin" "1280 37.001 -147.86"
+		editor
+		{
+			"color" "255 255 0"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1684"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe41"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe35"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "1280.12 13.375 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1681"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe40"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe34"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "1280.12 60.625 -95.6397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1678"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe39"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe33"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "1280.12 66.875 -82.1397"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1675"
+		"classname" "keyframe_rope"
+		"angles" "0 0 0"
+		"Barbed" "0"
+		"Breakable" "0"
+		"Collide" "0"
+		"Dangling" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"MoveSpeed" "64"
+		"NextKey" "keyframe38"
+		"NoWind" "0"
+		"RopeMaterial" "cable/cable_metalwinch01"
+		"Slack" "50"
+		"spawnflags" "0"
+		"Subdiv" "2"
+		"targetname" "keyframe32"
+		"TextureScale" "0.25"
+		"Type" "0"
+		"Width" "1"
+		"origin" "1280.12 7 -82.0147"
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupid" "10"
+			"visgroupshown" "0"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordons
+{
+	"active" "0"
+}
