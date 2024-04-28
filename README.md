@@ -4,17 +4,17 @@
  ![image](https://github.com/Unusuario2/gm_snowboreal_versions/assets/110506367/b772f729-ff2c-4971-b37b-547d0c5df62d)
 ## Folder Struture
 ### Old (2022-2023)
- -Year
-    -Month
-        -Extact date
-        -.bsp
-        -.vmf 
-            Source files 
+ -Year  
+    -Month  
+        -Extact date  
+        -.bsp  
+        -.vmf   
+            Source files   
 ### Normal (2023-release)
- -Year
-    -Month
-        -Extact date
-            Source files 
+ -Year  
+    -Month  
+        -Extact date  
+            Source files   
     
 ## Compile settings
 Replace PATH TO with the current directory (ex: C:\) 
