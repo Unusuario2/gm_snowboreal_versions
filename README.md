@@ -7,17 +7,17 @@
  My steam profile: https://steamcommunity.com/profiles/76561199073832016/  
 ## Folder Struture
 ### Old (2022-2023)
- -Year  
-    -Month  
-        -Extact date  
-        -.bsp  
-        -.vmf   
-            Source files   
+> -Year  
+>    -Month  
+>        -Extact date  
+>        -.bsp  
+>        -.vmf   
+>            Source files   
 ### Normal (2023-release)
- -Year  
-    -Month  
-        -Extact date  
-            Source files   
+> -Year  
+>    -Month  
+>        -Extact date  
+>            Source files   
     
 ## Compile settings
 Replace PATH TO with the current directory (ex: C:\) 
