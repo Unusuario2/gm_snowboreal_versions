@@ -6,6 +6,7 @@
 ## Compile settings
 Replace PATH TO with the current directory (ex: C:\) 
 ### Fast
+```
  1. vmfii.exe           $path\$file.vmf $path\$file.temp.vmf --fgd "PATH TO\SteamLibrary\steamapps\common\GarrysMod\bin\base.fgd"
  2. \win64\vbsp.exe     -game $gamedir $path\$file.temp.vmf 
  3. vmfii.exe           $path\$file.vmf $path\$file.temp.vmf --cleanup
@@ -13,8 +14,9 @@ Replace PATH TO with the current directory (ex: C:\)
  5. vrad.exe            -fast -bounce 1 -extrasky 1 -fastambient -noextra $gamedir $path\$file
  6. Copy File           $path\$file.bsp $bspdir\$file.bsp
  7. game                dev -windowed +sv_cheats 1 -console -width 1080 -height 720 $gamedir $path\$file.bsp
-
+```
 ### Default
+```
  1. vmfii.exe           $path\$file.vmf $path\$file.temp.vmf --fgd "PATH TO\SteamLibrary\steamapps\common\GarrysMod\bin\base.fgd"
  2. RadShadowMan.exe    $path\$file.temp.vmf
  3. \win64\vbsp.exe     -game $gamedir $path\$file.temp.vmf 
@@ -24,8 +26,9 @@ Replace PATH TO with the current directory (ex: C:\)
  7. vbspinfo.exe        -worldtexturestats -treeinfo -size $path\$file.bsp
  8. Copy File           $path\$file.bsp $bspdir\$file.bsp
  9. game                dev -windowed +sv_cheats 1 -console -width 1080 -height 720 $gamedir $path\$file.bsp
-
+```
 ### Final
+```
  1. vmfii.exe           $path\$file.vmf $path\$file.temp.vmf --fgd "PATH TO\SteamLibrary\steamapps\common\GarrysMod\bin\base.fgd"
  2. RadShadowMan.exe    $path\$file.temp.vmf
  3. \win64\vbsp.exe     -game $gamedir $path\$file.temp.vmf 
@@ -38,6 +41,6 @@ Replace PATH TO with the current directory (ex: C:\)
  9. Copy File           $path\$file.bsp $bspdir\$file.bsp
  10. game                 -w 1920 -h 1080 -buildcubemaps $path\$file.bsp
  11. game                dev -windowed +sv_cheats 1 -console -width 1080 -height 720 $gamedir $path\$file.bsp
-
+```
 
 
