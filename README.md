@@ -1,11 +1,10 @@
 # gm_snowboreal_versions
  Here are all the developer versions of gm_snowboreal (https://steamcommunity.com/sharedfiles/filedetails/?id=3171719212) from 2022 to 2024 (release).  
- My steam profile: https://steamcommunity.com/profiles/76561199073832016/  
  This repo is not meant to be optimize or whatsoever, there are a lot of duplicate files and other weird things.  
 
  ![image](https://github.com/Unusuario2/gm_snowboreal_versions/assets/110506367/b772f729-ff2c-4971-b37b-547d0c5df62d)  
 
-
+ My steam profile: https://steamcommunity.com/profiles/76561199073832016/  
 ## Folder Struture
 ### Old (2022-2023)
  -Year  
@@ -59,5 +58,7 @@ Replace PATH TO with the current directory (ex: C:\)
  10. game                 -w 1920 -h 1080 -buildcubemaps $path\$file.bsp
  11. game                dev -windowed +sv_cheats 1 -console -width 1080 -height 720 $gamedir $path\$file.bsp
 ```
-
+# LICENSE AND TERMS OF USE
+ You cannot redistrinute this files in the workshop/moddb/gamebana or other modding website WITHOUT MY PERMISION.
+ If you want to make a mod of this map, contact me in steam (https://steamcommunity.com/profiles/76561199073832016/) or discord (carlos suarez#7285) 
 
