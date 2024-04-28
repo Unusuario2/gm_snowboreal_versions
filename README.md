@@ -60,6 +60,6 @@ Replace PATH TO with the current directory (ex: C:\)
 ```
 # LICENSE AND TERMS OF USE
  You cannot redistribute those files in the workshop/moddb/gamebana or other modding website WITHOUT MY PERMISION.  
- If you redistribute those files WITHOUT MY PERMISION i will take it down.  
+ If you redistribute those files WITHOUT MY PERMISION, i will take it down.  
  Do you want to make a mod of this map? Contact me in steam (https://steamcommunity.com/profiles/76561199073832016/) or discord (carlos suarez#7285) 
 
