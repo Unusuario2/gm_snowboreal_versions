@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/ROCK/TEXTURESCOM_ROCK_CLIFFVOLCANIC_2K_ALBEDO.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_boreal/c-5573_11032_-5144"
+	}
+}

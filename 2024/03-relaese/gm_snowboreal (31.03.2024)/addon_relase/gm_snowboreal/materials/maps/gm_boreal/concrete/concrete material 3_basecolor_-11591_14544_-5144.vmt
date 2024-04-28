@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/CONCRETE MATERIAL 3_BASECOLOR.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_boreal/c-11591_14544_-5144"
+	}
+}

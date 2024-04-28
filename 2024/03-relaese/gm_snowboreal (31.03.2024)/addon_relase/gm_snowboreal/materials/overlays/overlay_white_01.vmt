@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	$basetexture "overlays/overlay_01_white"
+	$surfaceprop Plaster
+
+	$translucent 1
+	$decal 1
+
+	$nodecal 1
+	$disablecsmlookup 1
+
+	$decalscale 0.3
+}

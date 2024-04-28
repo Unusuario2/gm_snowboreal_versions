@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	$basetexture "snow/white"
+
+	$translucent 1
+
+	%keywords "tool,fog,custom,gm_boreal"
+}

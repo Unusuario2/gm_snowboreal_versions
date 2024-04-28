@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/HR_METAL/HR_METAL_CORRUGATED_001_GREY.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_boreal/c-13224_6432_-5072"
+	}
+}

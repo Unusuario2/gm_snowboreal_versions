@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"rock/snow007a_2k-jpg_color"
+	"$bumpmap"		"rock/snow007a_2k-jpg_normaldx"
+	"$surfaceprop"		"Snow"
+	"$detail"		"rock/snowdrift1_height"
+	"$detailscale"		"0.100000"
+	"$detailblendfactor"		"0.300000"
+	"$detail2"		"rock/texturescom_rock_cliffvolcanic_2k_height"
+	"$detailscale2"		"1"
+	"$detailblendfactor2"		"0.500000"
+	"$nodecal"		"1"
+	"%keywords"		"2k new"
+	"%detailtype"		"survival_grass_2"
+}

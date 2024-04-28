@@ -1,0 +1,23 @@
+LightmappedGeneric
+{
+	$basetexture "watersource/ice_reflections/ice_0002_color_2k"
+	$bumpmap "watersource/ice_reflections/ice_0002_normal_directx_2k"
+
+	$detail "watersource/ice_reflections/ice_0002_ao_2k"
+	$detailblendmode 8
+	$detailscale 16
+	$detailblendfactor 0.5
+
+	$alpha 0.8
+
+	$envmap "env_cubemap"
+	$envmapmask "watersource/ice_reflections/ice_0002_roughness_2k"
+	$envmaptint "[0.49 0.49 0.49]"
+	$envmapsaturation 0.14
+	$envmaplightscale 1
+	$envmaplightscaleminmax "[0 1]"
+	$envmapanisotropy 1
+	$envmapanisotropyscale 1
+
+	$color "[0.77 0.86 1]"
+}

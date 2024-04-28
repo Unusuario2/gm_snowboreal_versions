@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "de_subzero/sz_tree2"
+	//"$bumpmap"                "de_subzero/sz_snow_n"
+//"$bumptransform"  "center .5 .5 scale 1 1 rotate 0 translate 0 0" 
+	//"$normalmapalphaenvmapmask" 1
+	//"$envmapcontrast" 1
+	//"$envmapsaturation" 1
+	//a"$envmaptint" "[.6 .58 .55]"
+	//"$envmaptint" "[.7 .75 .8]"
+	//"$envmap" "environment maps/metal_generic_001"
+	"$color2" "{255 255 255}"
+
+}

@@ -1,0 +1,11 @@
+UnlitGeneric
+{
+	$basetexture "de_subzero/sz_tree2"
+
+	$alphatest 1
+	$alphatestreference 0.67
+
+	$color2 "[0.61 0.69 0.80]"
+
+	$vertexfog 1
+}

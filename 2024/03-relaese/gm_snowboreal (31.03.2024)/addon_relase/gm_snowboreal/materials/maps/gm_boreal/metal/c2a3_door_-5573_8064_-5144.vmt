@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/C2A3_DOOR.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_boreal/c-5573_8064_-5144"
+	}
+}

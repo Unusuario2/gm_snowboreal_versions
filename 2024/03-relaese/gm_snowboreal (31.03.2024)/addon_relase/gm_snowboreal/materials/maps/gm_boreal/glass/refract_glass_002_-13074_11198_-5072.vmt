@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GLASS/REFRACT_GLASS_002.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_boreal/c-13074_11198_-5072"
+	}
+}

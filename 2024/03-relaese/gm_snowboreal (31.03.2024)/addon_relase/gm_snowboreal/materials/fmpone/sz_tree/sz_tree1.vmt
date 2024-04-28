@@ -1,0 +1,25 @@
+VertexLitGeneric
+{
+	$basetexture "de_subzero/sz_tree1"
+	$alphatest 1
+	$alphatestreference 0.666
+$vertexfog 1
+	"$nocull" 1
+	$FlashlightNoLambert 1
+	$model 1
+$treeSway 1 
+$treeSwayHeight 10
+$treeSwayStartHeight "0.625" 
+$treeSwayRadius 64
+$treeSwayStartRadius "0" 
+$treeSwaySpeed "0.3" 
+$treeSwayStrength "0.6" 
+$treeSwayScrumbleSpeed .5
+$treeSwayScrumbleStrength "0.15" 
+$treeSwayScrumbleFrequency 122
+$treeSwayFalloffExp 1 
+$treeSwayScrumbleFalloffExp 3 
+$treeSwaySpeedHighWindMultiplier 6 
+$treeSwaySpeedLerpStart "0.5" 
+$treeSwaySpeedLerpEnd "5.0" 
+}

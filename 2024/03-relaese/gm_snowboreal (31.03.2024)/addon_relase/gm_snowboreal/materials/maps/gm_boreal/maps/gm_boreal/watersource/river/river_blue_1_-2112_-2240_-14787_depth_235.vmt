@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/gm_boreal/watersource/river/river_blue_1_-2112_-2240_-14787.vmt"
+	"insert"
+	{
+		"$waterdepth"		"235"
+	}
+}

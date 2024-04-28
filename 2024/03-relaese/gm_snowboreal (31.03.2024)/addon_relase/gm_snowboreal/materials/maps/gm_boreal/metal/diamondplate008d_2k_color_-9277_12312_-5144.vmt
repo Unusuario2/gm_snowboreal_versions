@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/DIAMONDPLATE008D_2K_COLOR.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_boreal/c-9277_12312_-5144"
+	}
+}

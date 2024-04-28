@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/PLASTER001_2K_COLOR.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_boreal/c-13609_14092_-4812"
+	}
+}

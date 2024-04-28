@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/ASPHALT/ASPHALT010_2K_COLOR.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_boreal/c3785_1216_-3388"
+	}
+}

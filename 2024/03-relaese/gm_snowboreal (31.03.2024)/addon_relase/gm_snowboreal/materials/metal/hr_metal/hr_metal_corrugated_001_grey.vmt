@@ -1,0 +1,20 @@
+LightmappedGeneric
+{
+	$basetexture "metal/hr_metal/hr_metal_corrugated_001_color"
+	$bumpmap "metal/hr_metal/hr_metal_corrugated_001_normals"
+	$surfaceprop Metal
+
+	$reflectivity "[0.60 0.60 0.60]"
+
+	$envmap "env_cubemap"
+	$envmapmask "metal/hr_metal/hr_metal_corrugated_001_color"
+	$envmapcontrast 0.3
+	$envmapsaturation 0.12
+	$fresnelreflection 0.2
+	$envmaplightscale 1
+	$envmaplightscaleminmax "[0 0.30]"
+
+	$color "[0.60 0.60 0.60]"
+
+	$noenvmapmip 1
+}

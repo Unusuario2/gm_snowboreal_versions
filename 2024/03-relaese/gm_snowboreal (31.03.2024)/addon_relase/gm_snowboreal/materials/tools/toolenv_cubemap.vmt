@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	$basetexture "tools/toolenv_cubemap"
+
+	$alpha 0.9
+	$translucent 1
+
+	%keywords "tool,env_,env,custom"
+
+	%compileskip 1
+}

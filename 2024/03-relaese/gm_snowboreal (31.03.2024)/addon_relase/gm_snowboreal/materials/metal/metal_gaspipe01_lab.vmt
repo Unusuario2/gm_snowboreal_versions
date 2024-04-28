@@ -1,0 +1,17 @@
+LightmappedGeneric
+{
+	$basetexture "metal/gaspipe01_lab"
+	$bumpmap "metal/gaspipe01_lab_normal"
+	$surfaceprop Metal
+
+	$detail "detail/bm_metal_detail_01"
+	$detailblendfactor 0.8
+
+	$envmap "environment maps/metal_generic_001"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.40 0.40 0.40]"
+	$envmapcontrast 0.65
+	$envmapsaturation 0.8
+
+	%keywords "bms, jenn0,"
+}

@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "de_subzero/sz_tree1"
+	$alphatest 1
+	$alphatestreference 0.666
+$vertexfog 1
+	"$nocull" 1
+	$FlashlightNoLambert 1
+	$model 1
+}

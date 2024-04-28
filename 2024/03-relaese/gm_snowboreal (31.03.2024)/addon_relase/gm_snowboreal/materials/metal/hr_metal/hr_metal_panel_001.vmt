@@ -1,0 +1,16 @@
+LightmappedGeneric
+{
+	$basetexture "metal/hr_metal/hr_metal_panel_001"
+	$surfaceprop Metal
+
+	$reflectivity "[0.91 0.55 0.20]"
+
+	$envmap "env_cubemap"
+	$envmapmask "metal/hr_metal/hr_metal_panel_001"
+	$envmaptint "[0.20 0.20 0.20]"
+	$envmapsaturation 0.19
+	$envmaplightscale 1
+	$envmaplightscaleminmax "[0 1]"
+
+	$color "[0.91 0.55 0.20]"
+}

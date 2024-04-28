@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	$basetexture "plaster/plaster001_2k_color"
+	$bumpmap "plaster/plaster001_2k_normaldx"
+	$surfaceprop Plaster
+
+	$envmap "env_cubemap"
+	$envmapmask "plaster/plaster001_2k_roughness"
+	$envmaptint "[0.03 0.03 0.03]"
+	$envmapsaturation 0.03
+
+	%keywords "2k"
+}

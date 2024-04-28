@@ -1,0 +1,14 @@
+Refract
+{
+	$surfaceprop Glass
+
+	$alpha 0.62
+	$alphatest 1
+
+	$refract 1
+	$refracttint "[0.88 0.88 0.88]"
+	$refractamount 0.38
+	$bluramount 0.38
+
+	$dudvmap "glass/de_dudv"
+}

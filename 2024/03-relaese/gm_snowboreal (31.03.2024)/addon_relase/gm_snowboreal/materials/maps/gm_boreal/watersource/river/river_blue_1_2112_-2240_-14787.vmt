@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/WATERSOURCE/RIVER/RIVER_BLUE_1.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_boreal/c2112_-2240_-14787"
+		"Proxies"
+		{
+		}
+	}
+}

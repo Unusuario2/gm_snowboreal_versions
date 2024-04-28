@@ -1,0 +1,9 @@
+sky
+{
+	$basetexture "skybox/2dskybox_gm_boreal/gm_borealdn"
+
+	$ignorez 1
+	 
+
+	$hdrbasetexture "skybox/2dskybox_gm_boreal/gm_borealdn"
+}

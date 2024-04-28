@@ -1,0 +1,21 @@
+Refract
+{
+	$surfaceprop Glass
+
+	$detail "glass/dirty_glass_43_92_ao"
+	$detailblendmode 8
+	$detailscale 1
+	$detailblendfactor 0.5
+
+	$envmap "env_cubemap"
+	$envmapmask "glass/dirty_glass_43_92_roughness"
+	$envmaptint "[0.11 0.11 0.11]"
+	$envmapsaturation 0.03
+
+	$refract 1
+	$normalmap "glass/dirty_glass_43_92_normal"
+	$refractamount 0.25
+	$bluramount 1
+
+	%keywords "2k glass"
+}

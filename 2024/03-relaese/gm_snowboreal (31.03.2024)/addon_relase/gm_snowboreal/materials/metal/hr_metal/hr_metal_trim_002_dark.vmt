@@ -1,0 +1,16 @@
+LightmappedGeneric
+{
+	$basetexture "metal/hr_metal/hr_metal_trim_002_color"
+	$surfaceprop Metal
+
+	$envmap "env_cubemap"
+	$basealphaenvmapmask 1
+	$envmapcontrast 0.5
+	$envmapsaturation 0.02
+	$envmaplightscale 1
+	$envmaplightscaleminmax "[0 1]"
+
+	$nodecal 1
+
+	$color "[0.24 0.24 0.24]"
+}

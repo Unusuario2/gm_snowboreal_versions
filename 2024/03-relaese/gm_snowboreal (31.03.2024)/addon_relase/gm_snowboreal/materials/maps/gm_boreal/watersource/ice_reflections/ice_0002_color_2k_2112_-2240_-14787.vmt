@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WATERSOURCE/ICE_REFLECTIONS/ICE_0002_COLOR_2K.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_boreal/c2112_-2240_-14787"
+	}
+}

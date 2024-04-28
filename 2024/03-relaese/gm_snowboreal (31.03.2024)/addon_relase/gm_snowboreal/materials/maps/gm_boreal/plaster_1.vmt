@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	$basetexture "maps/gm_boreal/plaster_1"
+	$bumpmap "maps/gm_boreal/plaster_1_n"
+	$surfaceprop Rock
+
+	$phong 1
+	$phongexponent 5
+	$phongamount "[1.23 1.23 1.23 1]"
+}

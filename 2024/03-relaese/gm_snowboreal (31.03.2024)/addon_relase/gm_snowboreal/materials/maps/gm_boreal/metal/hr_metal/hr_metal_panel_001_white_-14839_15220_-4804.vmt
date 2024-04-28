@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/HR_METAL/HR_METAL_PANEL_001_WHITE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_boreal/c-14839_15220_-4804"
+	}
+}

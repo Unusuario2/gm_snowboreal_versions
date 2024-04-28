@@ -1,0 +1,18 @@
+LightmappedGeneric
+{
+	$basetexture "metal/DiamondPlate008D_2K_Color"
+	$bumpmap "metal/DiamondPlate008D_2K_NormalDX"
+	$surfaceprop Metal
+
+	$detail "metal/DiamondPlate008D_2K_AmbientOcclusion"
+	$detailblendmode 8
+	$detailscale 1
+	$detailblendfactor 0.5
+
+	$envmap "env_cubemap"
+	$envmapmask "metal/DiamondPlate008D_2K_Roughness"
+	$envmaptint "[0.41 0.41 0.41]"
+	$envmapsaturation 0.18
+
+	%keywords "2k"
+}

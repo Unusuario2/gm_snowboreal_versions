@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	$basetexture "plastic/tiles_0013_color_2k"
+	$bumpmap "plastic/tiles_0013_normal_directx_2k"
+
+	$detail "plastic/tiles_0013_ao_2k"
+	$detailblendmode 8
+	$detailscale 1
+	$detailblendfactor 0.5
+
+	%keywords "2k"
+}

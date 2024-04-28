@@ -1,0 +1,26 @@
+LightmappedGeneric
+{
+	$basetexture "plaster/paintedplaster017_2k_color"
+	$bumpmap "plaster/paintedplaster017_2k_normaldx"
+	$surfaceprop Plaster
+
+	$reflectivity "[0.90 0.90 0.90]"
+
+	$detail "plaster/paintedplaster017_2k_displacement"
+	$detailblendmode 8
+	$detailscale 1
+	$detailblendfactor 0.15
+
+	$envmap "env_cubemap"
+	$envmapmask "plaster/4k-plaster_30_roughness"
+	$envmaptint "[0.04 0.04 0.04]"
+	$envmapcontrast 0.2
+	$envmapsaturation 0.03
+	$fresnelreflection 0.75
+	$envmaplightscale 1
+	$envmaplightscaleminmax "[0 0.35]"
+
+	$nodecal 1
+
+	%keywords "2k"
+}

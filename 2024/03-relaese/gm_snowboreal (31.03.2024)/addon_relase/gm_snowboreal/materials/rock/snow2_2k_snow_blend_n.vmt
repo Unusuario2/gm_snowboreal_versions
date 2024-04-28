@@ -1,0 +1,23 @@
+WorldVertexTransition
+{
+	$basetexture "rock/snow007a_2k-jpg_color"
+	$bumpmap "rock/snow007a_2k-jpg_normaldx"
+	$surfaceprop Snow
+
+	$basetexture2 "rock/texturescom_rock_cliffvolcanic_2k_albedo"
+	$bumpmap2 "rock/texturescom_rock_cliffvolcanic_2k_normal"
+	$surfaceprop2 Rock
+
+	$detail "rock/snowdrift1_height"
+	$detailscale 0.1
+	$detailblendfactor 0.3
+	$detail2 "rock/texturescom_rock_cliffvolcanic_2k_height"
+	$detailscale2 1
+	$detailblendfactor2 0.5
+
+	$blendmodulatetexture "rock/snow2_2k_snow_blendmodulate"
+
+	$nodecal 1
+
+	%keywords "2k new"
+}
