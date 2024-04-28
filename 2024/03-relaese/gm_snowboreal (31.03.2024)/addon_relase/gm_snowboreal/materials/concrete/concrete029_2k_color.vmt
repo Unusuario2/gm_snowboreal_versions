@@ -1,0 +1,17 @@
+LightmappedGeneric
+{
+	$basetexture "concrete/Concrete029_2K_Color"
+	$bumpmap "concrete/Concrete029_2K_NormalDX"
+	$surfaceprop Concrete
+
+	$detail "concrete/Concrete029_2K_AmbientOcclusion"
+	$detailscale 1
+	$detailblendfactor 0.5
+
+	$phong 1
+	$phongexponent 1024
+	$phongamount "[2 2 2 1]"
+	$phongmaskcontrastbrightness "[10 1]"
+
+	%keywords "2k"
+}

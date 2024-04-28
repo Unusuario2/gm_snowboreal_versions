@@ -1,0 +1,17 @@
+LightmappedGeneric
+{
+	$basetexture "de_nuke/nuke_floor_arrow_straight_00_00_00"
+	$surfaceprop Concrete
+
+	$translucent 1
+	$decal 1
+
+	$basetexturetransform "center 0.5 0.5 scale 1 1 rotate 180 translate 0 0"
+
+	$vertexcolor 1
+	$vertexalpha 1
+	$nodecal 1
+	$disablecsmlookup 1
+
+	$decalscale .25
+}

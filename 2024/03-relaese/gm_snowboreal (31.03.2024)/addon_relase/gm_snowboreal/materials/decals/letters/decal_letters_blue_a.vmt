@@ -1,0 +1,17 @@
+LightmappedGeneric
+{
+	$basetexture "decals/letters/decal_letters_a"
+
+	$basetexture2 "decals/color_blue"
+
+	$translucent 1
+	$decal 1
+
+	$vertexcolor 1
+	$vertexalpha 1
+	$disablecsmlookup 1
+
+	%keywords "bms"
+
+	$decalscale 0.25
+}

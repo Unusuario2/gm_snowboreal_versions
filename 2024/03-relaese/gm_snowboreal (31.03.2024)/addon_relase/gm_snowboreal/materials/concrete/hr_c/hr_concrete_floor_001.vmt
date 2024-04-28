@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	$basetexture "concrete/hr_c/hr_concrete_floor_001_color"
+	$bumpmap "concrete/hr_c/hr_concrete_floor_001_normals"
+	$surfaceprop Rubber
+
+	$detail "concrete/hr_c/hr_concrete_polished_001_detail"
+	$detailscale 0.1
+	$detailblendfactor 1.25
+}

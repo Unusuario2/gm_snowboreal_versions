@@ -1,0 +1,21 @@
+LightmappedGeneric
+{
+	$basetexture "asphalt/asphalt010_2k_color"
+	$bumpmap "asphalt/asphalt010_2k_normaldx"
+	$surfaceprop Brick
+
+	$detail "asphalt/asphalt010_2k_opacity"
+	$detailscale 1
+
+	$envmap "env_cubemap"
+	$envmapmask "asphalt/asphalt010_2k_roughness"
+	$envmaptint "[0.09 0.09 0.09]"
+
+	$phong 1
+	$phongexponent 5
+	$phongamount "[1 1 1 1]"
+
+	$color "[0.37 0.37 0.37]"
+
+	%keywords "2k"
+}

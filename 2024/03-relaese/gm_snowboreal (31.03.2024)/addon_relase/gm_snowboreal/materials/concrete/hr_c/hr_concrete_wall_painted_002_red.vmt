@@ -1,0 +1,21 @@
+LightmappedGeneric
+{
+	$basetexture "concrete/hr_c/hr_concrete_wall_painted_002_color"
+	$bumpmap "concrete/hr_c/hr_concrete_wall_painted_002_normals"
+
+	$reflectivity "[0.77 0.07 0.01]"
+
+	$detail "concrete/hr_c/hr_concrete_wall_painted_002_detail"
+	$detailscale 0.64
+	$detailblendfactor 0.8
+
+	$envmap "environment maps/metal_generic_004"
+	$envmapsaturation 0.75
+	$fresnelreflection 0.09
+	$envmaplightscale 1
+	$envmaplightscaleminmax "[0 4]"
+
+	$bumptransform "center 0 0 scale 1.25 1.25 rotate 0 translate 0 0"
+
+	$color "[0.39 0.09 0.04]"
+}

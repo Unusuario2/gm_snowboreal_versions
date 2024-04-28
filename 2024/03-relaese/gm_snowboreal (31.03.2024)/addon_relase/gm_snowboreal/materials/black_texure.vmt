@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture "black_texure"
+
+	$reflectivity "[0.25 0.25 0.25]"
+}

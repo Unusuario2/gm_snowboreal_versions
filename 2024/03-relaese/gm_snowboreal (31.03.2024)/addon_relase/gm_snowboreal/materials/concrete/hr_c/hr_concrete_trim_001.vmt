@@ -1,0 +1,17 @@
+LightmappedGeneric
+{
+	$basetexture "concrete/hr_c/hr_concrete_trim_001_color"
+	$surfaceprop Concrete
+
+	$detail "concrete/hr_c/hr_concrete_wall_painted_002_detail"
+	$detailblendfactor 0
+
+	$envmap "environment maps/metal_generic_001"
+	$basealphaenvmapmask 1
+	$envmapcontrast 0.5
+	$envmapsaturation 0.8
+	$envmaplightscale 1
+	$envmaplightscaleminmax "[0 0.50]"
+
+	$nodecal 1
+}

@@ -1,0 +1,18 @@
+LightmappedGeneric
+{
+	$basetexture "de_nuke/nuke_drain_covers_1"
+	$surfaceprop Concrete
+
+	$alphatest 1
+	$decal 1
+
+	$envmap "environment maps/metal_generic_001"
+	$envmapmask "de_nuke/nuke_drain_covers_color"
+	$envmaplightscale 1
+	$envmaplightscaleminmax "[0 0.30]"
+
+	$vertexcolor 1
+	$vertexalpha 1
+
+	$decalscale 0.075
+}

@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	$basetexture "decals/cs_high_voltage_sign"
+
+	$translucent 1
+
+	$vertexcolor 1
+	$vertexalpha 1
+
+	$decalscale 0.25
+}

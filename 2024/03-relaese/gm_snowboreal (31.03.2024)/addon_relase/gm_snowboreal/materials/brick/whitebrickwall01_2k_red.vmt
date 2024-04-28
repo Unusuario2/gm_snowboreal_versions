@@ -1,0 +1,17 @@
+LightmappedGeneric
+{
+	$basetexture "brick/whitebrickwall01_2k_basecolor"
+	$bumpmap "brick/whitebrickwall01_2k_normal"
+	$surfaceprop Brick
+
+	$reflectivity "[1 0.23 0.23]"
+
+	$detail "brick/whitebrickwall01_4k_height"
+	$detailblendmode 8
+	$detailscale 1
+	$detailblendfactor 0.5
+
+	$color "[1 0.23 0.23]"
+
+	%keywords "2k"
+}

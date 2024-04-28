@@ -1,0 +1,15 @@
+WorldVertexTransition
+{
+	$basetexture "concrete/hr_c/hr_concrete_floor_05_color"
+	$surfaceprop Concrete
+
+	$basetexture2 "concrete/hr_c/hr_concrete_floor_05_dirty_color"
+
+	$detail "concrete/hr_c/hr_concrete_floor_05_detail"
+	$detailscale 0.24
+	$detailblendfactor 0.55
+
+	$blendmodulatetexture "concrete/hr_c/hr_concrete_floor_05_blendmod"
+
+	$nodecal 1
+}

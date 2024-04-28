@@ -1,0 +1,16 @@
+LightmappedGeneric
+{
+	$basetexture "de_nuke/nuke_parking_zone_text_nopar"
+	$surfaceprop Concrete
+
+	$translucent 1
+	$decal 1
+
+	$vertexcolor 1
+	$vertexalpha 1
+	$disablecsmlookup 1
+
+	$color "[0.70 0.65 0.11]"
+
+	$decalscale .5
+}

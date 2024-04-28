@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	$basetexture "decals/cs_decal_level_a"
+
+	$translucent 1
+	$decal 1
+
+	$vertexcolor 1
+	$vertexalpha 1
+	$disablecsmlookup 1
+
+	$decalscale 0.175
+}

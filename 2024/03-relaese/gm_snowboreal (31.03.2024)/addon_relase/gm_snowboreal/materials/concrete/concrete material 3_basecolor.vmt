@@ -1,0 +1,20 @@
+LightmappedGeneric
+{
+	$basetexture "concrete/concrete material 3_basecolor"
+	$bumpmap "concrete/concrete material 3_normal"
+	$surfaceprop Concrete
+
+	$detail "concrete/concrete material 3_ambientocclusion"
+	$detailblendmode 8
+	$detailscale 1
+	$detailblendfactor 0.39
+
+	$envmap "env_cubemap"
+	$envmapmask "concrete/concrete material 3_specular"
+	$envmaptint "[0.06 0.06 0.06]"
+	$envmapsaturation 0.02
+
+	$phong 1
+	$phongexponent 515
+	$phongamount "[1 1 1 1]"
+}

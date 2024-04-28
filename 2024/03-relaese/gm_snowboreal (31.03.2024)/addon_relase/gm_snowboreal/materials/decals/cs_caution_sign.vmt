@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	$basetexture "decals/cs_caution_sign"
+
+	$translucent 1
+
+	$decalscale 0.075
+}
