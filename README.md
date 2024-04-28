@@ -59,7 +59,7 @@ Replace PATH TO with the current directory (ex: C:\)
  11. game                dev -windowed +sv_cheats 1 -console -width 1080 -height 720 $gamedir $path\$file.bsp
 ```
 # LICENSE AND TERMS OF USE
- You cannot redistribute this files in the workshop/moddb/gamebana or other modding website WITHOUT MY PERMISION.  
- If you redistribute this file  WITHOUT MY PERMISION i will take it down.  
+ You cannot redistribute those files in the workshop/moddb/gamebana or other modding website WITHOUT MY PERMISION.  
+ If you redistribute those files WITHOUT MY PERMISION i will take it down.  
  Do you want to make a mod of this map? Contact me in steam (https://steamcommunity.com/profiles/76561199073832016/) or discord (carlos suarez#7285) 
 
