@@ -1,0 +1,494 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "8862"
+	"mapversion" "6"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "1"
+}
+palette_plus
+{
+	"color0" "255 255 255"
+	"color1" "255 255 255"
+	"color2" "255 255 255"
+	"color3" "255 255 255"
+	"color4" "255 255 255"
+	"color5" "255 255 255"
+	"color6" "255 255 255"
+	"color7" "255 255 255"
+	"color8" "255 255 255"
+	"color9" "255 255 255"
+	"color10" "255 255 255"
+	"color11" "255 255 255"
+	"color12" "255 255 255"
+	"color13" "255 255 255"
+	"color14" "255 255 255"
+	"color15" "255 255 255"
+}
+colorcorrection_plus
+{
+	"name0" ""
+	"weight0" "1"
+	"name1" ""
+	"weight1" "1"
+	"name2" ""
+	"weight2" "1"
+	"name3" ""
+	"weight3" "1"
+}
+light_plus
+{
+	"samples_sun" "6"
+	"samples_ambient" "40"
+	"samples_vis" "256"
+	"texlight" ""
+	"incremental_delay" "0"
+	"bake_dist" "1024"
+	"radius_scale" "1"
+	"brightness_scale" "1"
+	"ao_scale" "0"
+	"bounced" "1"
+	"incremental" "1"
+	"supersample" "0"
+	"bleed_hack" "1"
+	"soften_cosine" "0"
+	"debug" "0"
+	"cubemap" "1"
+	"hdr" "0"
+}
+bgimages_plus
+{
+}
+world
+{
+	"id" "1"
+	"mapversion" "6"
+	"classname" "worldspawn"
+	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_day01_01"
+}
+entity
+{
+	"id" "39"
+	"classname" "keyframe_rope"
+	"angles" "0 240 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "25"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "9"
+	"TextureScale" "0.3"
+	"Type" "0"
+	"Width" "2"
+	"origin" "56.5 -56 -17.1088"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2182.19 -5984]"
+	}
+}
+entity
+{
+	"id" "36"
+	"classname" "keyframe_rope"
+	"angles" "0 240 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "25"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "8"
+	"TextureScale" "0.3"
+	"Type" "0"
+	"Width" "2"
+	"origin" "56.5 -56 8.8912"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2182.19 -5984]"
+	}
+}
+entity
+{
+	"id" "32"
+	"classname" "prop_static"
+	"angles" "0 90 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props/de_vertigo/fencepost_constructionmetal_01.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "58.5 -56 -40.4291"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[3000 -10768]"
+	}
+}
+entity
+{
+	"id" "2"
+	"classname" "keyframe_rope"
+	"angles" "0 240 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "4"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "25"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "2"
+	"TextureScale" "0.3"
+	"Type" "0"
+	"Width" "2"
+	"origin" "-56.5 56 -17.1088"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2182.19 -5984]"
+	}
+}
+entity
+{
+	"id" "5"
+	"classname" "keyframe_rope"
+	"angles" "0 240 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "3"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "25"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "1"
+	"TextureScale" "0.3"
+	"Type" "0"
+	"Width" "2"
+	"origin" "-56.5 56 8.8912"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2182.19 -5984]"
+	}
+}
+entity
+{
+	"id" "8"
+	"classname" "keyframe_rope"
+	"angles" "0 240 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "6"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "25"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "4"
+	"TextureScale" "0.3"
+	"Type" "0"
+	"Width" "2"
+	"origin" "-10.5 36 -17.1088"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2182.19 -5984]"
+	}
+}
+entity
+{
+	"id" "11"
+	"classname" "keyframe_rope"
+	"angles" "0 240 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "7"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "25"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "3"
+	"TextureScale" "0.3"
+	"Type" "0"
+	"Width" "2"
+	"origin" "-10.5 36 8.8912"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2182.19 -5984]"
+	}
+}
+entity
+{
+	"id" "14"
+	"classname" "prop_static"
+	"angles" "0 180 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props/de_vertigo/fencepost_constructionmetal_01.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-56.5 58 -40.4291"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[3000 -10768]"
+	}
+}
+entity
+{
+	"id" "18"
+	"classname" "prop_static"
+	"angles" "0 135 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props/de_vertigo/fencepost_constructionmetal_01.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-9.5 38 -40.4291"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[3000 -10768]"
+	}
+}
+entity
+{
+	"id" "22"
+	"classname" "prop_static"
+	"angles" "0 135 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props/de_vertigo/fencepost_constructionmetal_01.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "36.5 -8 -40.4291"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[3000 -10768]"
+	}
+}
+entity
+{
+	"id" "26"
+	"classname" "keyframe_rope"
+	"angles" "0 240 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "9"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "25"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "6"
+	"TextureScale" "0.3"
+	"Type" "0"
+	"Width" "2"
+	"origin" "34.5 -10 -17.1088"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2182.19 -5984]"
+	}
+}
+entity
+{
+	"id" "29"
+	"classname" "keyframe_rope"
+	"angles" "0 240 0"
+	"Barbed" "0"
+	"Breakable" "0"
+	"Collide" "0"
+	"Dangling" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"MoveSpeed" "64"
+	"NextKey" "8"
+	"NoWind" "0"
+	"RopeMaterial" "cable/cable_metalwinch01"
+	"Slack" "25"
+	"spawnflags" "0"
+	"Subdiv" "2"
+	"targetname" "7"
+	"TextureScale" "0.3"
+	"Type" "0"
+	"Width" "2"
+	"origin" "34.5 -10 8.8912"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[2182.19 -5984]"
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "76"
+		"classname" "prop_static"
+		"angles" "0 270 0"
+		"disableselfshadowing" "0"
+		"disableshadows" "0"
+		"disablevertexlighting" "0"
+		"fademaxdist" "0"
+		"fademindist" "-1"
+		"fadescale" "1"
+		"ignorenormals" "0"
+		"maxdxlevel" "0"
+		"mindxlevel" "0"
+		"model" "models/props/gm_boreal/clip_1.mdl"
+		"screenspacefade" "0"
+		"skin" "0"
+		"solid" "6"
+		"origin" "1 -2 -6"
+		editor
+		{
+			"color" "255 255 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+entity
+{
+	"id" "107"
+	"classname" "editor_text"
+	"angles" "-0 45 0"
+	"color" "129 49 49"
+	"message" "here is a 3d model clip_1"
+	"textsize" "5"
+	"origin" "-36 22 28.25"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordons
+{
+	"active" "0"
+}
+quickhide
+{
+	"count" "4"
+}
