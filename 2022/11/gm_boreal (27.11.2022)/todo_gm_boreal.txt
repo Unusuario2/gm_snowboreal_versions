@@ -1,0 +1,4 @@
+thing todo gm_boreal
+
+remake most of the dispalcaments and optimaze
+also quit most of the brushes nad replace then with displacaments !!!
