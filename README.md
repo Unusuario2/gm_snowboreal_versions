@@ -24,7 +24,7 @@ Replace PATH TO with the current directory (ex: C:\)
 ### Fast
 ```
  1. vmfii.exe           $path\$file.vmf $path\$file.temp.vmf --fgd "PATH TO\SteamLibrary\steamapps\common\GarrysMod\bin\base.fgd"
- 2. \win64\vbsp.exe     -game $gamedir $path\$file.temp.vmf 
+ 2. \win64\vbsp.exe     -blocksize 2048 -micro 1.0 -game $gamedir $path\$file.temp.vmf 
  3. vmfii.exe           $path\$file.vmf $path\$file.temp.vmf --cleanup
  4. \win64\vvis.exe            -threads 16 -fast  -FullMinidumps $gamedir $path\$file
  5. \win64\vrad.exe            -fast -bounce 1 -extrasky 1 -fastambient -noextra $gamedir $path\$file
@@ -35,7 +35,7 @@ Replace PATH TO with the current directory (ex: C:\)
 ```
  1. vmfii.exe           $path\$file.vmf $path\$file.temp.vmf --fgd "PATH TO\SteamLibrary\steamapps\common\GarrysMod\bin\base.fgd"
  2. RadShadowMan.exe    $path\$file.temp.vmf
- 3. \win64\vbsp.exe     -game $gamedir $path\$file.temp.vmf 
+ 3. \win64\vbsp.exe     -blocksize 2048 -micro 1.0 -game $gamedir $path\$file.temp.vmf 
  4. vmfii.exe           $path\$file.vmf $path\$file.temp.vmf --cleanup
  5. \win64\vvis.exe            -threads 16 -fast -FullMinidumps $gamedir $path\$file
  6. \win64\vrad.exe            -threads 16 -bounce 32 -final -smooth 45 -StaticPropLighting -TextureShadows -extrasky 4  $gamedir $path\$file
@@ -47,7 +47,7 @@ Replace PATH TO with the current directory (ex: C:\)
 ```
  1. vmfii.exe           $path\$file.vmf $path\$file.temp.vmf --fgd "PATH TO\SteamLibrary\steamapps\common\GarrysMod\bin\base.fgd"
  2. RadShadowMan.exe    $path\$file.temp.vmf
- 3. \win64\vbsp.exe     -game $gamedir $path\$file.temp.vmf 
+ 3. \win64\vbsp.exe     -blocksize 2048 -micro 1.0 -game $gamedir $path\$file.temp.vmf 
  4. vmfii.exe           $path\$file.vmf $path\$file.temp.vmf --cleanup
  5. postcompiler.exe    -game $gamedir  $path/$file
  6. \win64\vvis.exe            -threads 16 -FullMinidumps $gamedir $path\$file
