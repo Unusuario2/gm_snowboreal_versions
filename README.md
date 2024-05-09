@@ -37,7 +37,7 @@ Replace PATH TO with the current directory (ex: C:\)
  2. RadShadowMan.exe    $path\$file.temp.vmf
  3. \win64\vbsp.exe     -game $gamedir $path\$file.temp.vmf 
  4. vmfii.exe           $path\$file.vmf $path\$file.temp.vmf --cleanup
- 5. vvis.exe            -threads 16 -fast  -FullMinidumps $gamedir $path\$file
+ 5. vvis.exe            -threads 16 -fast -FullMinidumps $gamedir $path\$file
  6. vrad.exe            -threads 16 -bounce 32 -final -smooth 45 -StaticPropLighting -TextureShadows -extrasky 4  $gamedir $path\$file
  7. vbspinfo.exe        -worldtexturestats -treeinfo -size $path\$file.bsp
  8. Copy File           $path\$file.bsp $bspdir\$file.bsp
@@ -50,7 +50,7 @@ Replace PATH TO with the current directory (ex: C:\)
  3. \win64\vbsp.exe     -game $gamedir $path\$file.temp.vmf 
  4. vmfii.exe           $path\$file.vmf $path\$file.temp.vmf --cleanup
  5. postcompiler.exe    -game $gamedir  $path/$file
- 6. vvis.exe            -threads 16 -fast  -FullMinidumps $gamedir $path\$file
+ 6. vvis.exe            -threads 16 -FullMinidumps $gamedir $path\$file
  7. vrad.exe            -threads 16 -ambientocclusion -aoscale 1.5 -bounce 320 -final -smooth 45 -StaticPropLighting -TextureShadows -extrasky 128 -both  
                         -LargeDispSampleRadius -maxdispsamplesize 256  -softsun 0 -chop 2 -maxchop 2 -lights  "PATH TO\gm_boreal.temp.rad" $gamedir $path\$file
  8. vbspinfo.exe        -worldtexturestats -treeinfo -size $path\$file.bsp
