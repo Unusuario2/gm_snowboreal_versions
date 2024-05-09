@@ -51,8 +51,8 @@ Replace PATH TO with the current directory (ex: C:\)
  4. vmfii.exe           $path\$file.vmf $path\$file.temp.vmf --cleanup
  5. postcompiler.exe    -game $gamedir  $path/$file
  6. vvis.exe            -threads 16 -fast  -FullMinidumps $gamedir $path\$file
- 7. vrad.exe            -threads 16 -bounce 320 -final -smooth 45 -StaticPropLighting -TextureShadows -extrasky 128 -both -LargeDispSampleRadius -maxdispsamplesize 256 
-                        -softsun 0 -chop 2 -maxchop 2 -lights  "PATH TO\gm_boreal.temp.rad" $gamedir $path\$file
+ 7. vrad.exe            -threads 16 -ambientocclusion -aoscale 1.5 -bounce 320 -final -smooth 45 -StaticPropLighting -TextureShadows -extrasky 128 -both  
+                        -LargeDispSampleRadius -maxdispsamplesize 256  -softsun 0 -chop 2 -maxchop 2 -lights  "PATH TO\gm_boreal.temp.rad" $gamedir $path\$file
  8. vbspinfo.exe        -worldtexturestats -treeinfo -size $path\$file.bsp
  9. Copy File           $path\$file.bsp $bspdir\$file.bsp
  10. game                 -w 1920 -h 1080 -buildcubemaps $path\$file.bsp
